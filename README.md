@@ -4,11 +4,7 @@
 # Output
 # .................................................................................................
 # Assignment 1
-
-![Screenshot (869)](https://github.com/Monalisa-24/Codekaro-js-assignments-Day-3/assets/116990954/7188064f-abbb-4c40-b4f7-6e253d3a74c9)
-![Screenshot (866)](https://github.com/Monalisa-24/Codekaro-js-assignments-Day-3/assets/116990954/e87ecb0b-f2a1-4e3f-82f6-b16c7f0946ce)
-![Screenshot (868)](https://github.com/Monalisa-24/Codekaro-js-assignments-Day-3/assets/116990954/9bdd3993-b2e3-4c33-b8f4-7739e22f615a)
-![Screenshot (867)](https://github.com/Monalisa-24/Codekaro-js-assignments-Day-3/assets/116990954/6d910170-28ee-4e26-a79e-7396e5423860)
+https://codepen.io/Monalisa-Saha/pen/eYXNLoZ
 
 
 # Assignment 2
