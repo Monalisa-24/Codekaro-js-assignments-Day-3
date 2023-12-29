@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin: 200px 200px 0 200px;
+    text-align: center;
+}
+
+.container h2 {
+    margin-bottom: 10px;
+    color: crimson;
+}
+
+.div1 {
+    margin: 50px 200px;
+    text-align: center;
+}
+
+.box {
+    height: 100px;
+    width: 300px;
+    border: 2px solid lightslategrey;
+    border-radius: 10px;
+    margin: auto;
+    padding: 40px 60px;
+}
+
+.box {
+    color: midnightblue;
+    font-style: italic;
+}
+
+.btn-grp {
+    display: flex;
+    gap: 15px;
+    margin: 50px 200px;
+}
+
+button {
+    padding: 10px;
+    width: 10%;
+    border-radius: 7px;
+    border: none;
+    background-color: deepskyblue;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+}
